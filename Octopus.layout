@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="..\..\..\iCloudDrive\Projects\Software\ML\sklearn\naive_bayes.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5106" topLine="121" />
+		</Cursor>
+	</File>
+	<File name="BundesLigaFix.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10239" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="EPLFix.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11675" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6783" topLine="219" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\iCloudDrive\Projects\Software\ML\sklearn\logistic_regression.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1840" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="defines.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1472" topLine="62" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\iCloudDrive\Projects\Software\ML\sklearn\preprocessing.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Models.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1567" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="SeriaAFix.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9382" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="Models.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2656" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\iCloudDrive\Projects\Software\ML\sklearn\statx.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13255" topLine="427" />
+		</Cursor>
+	</File>
+	<File name="LaLigaFix.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="289" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\iCloudDrive\Projects\Software\ML\sklearn\mlr.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1589" topLine="54" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

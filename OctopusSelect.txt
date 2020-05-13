@@ -1,0 +1,32 @@
+EVERTON vs WHUTD		= H: 51%  D: 48%  A: 1%   = 1X
+BOURNEMOUTH vs NORWICH	= H: 100% D: 0%   A: 0%   = 1
+AVILLA vs BHA			= H: 0%   D: 100% A: 0%   = X (Isibindi)
+CHELSEA vs NEWCASTLE	= H: 16%  D: 0%   A: 84%  = 2 (Yahlanya)
+LEICESTER vs BURNELY	= H: 97%  D: 0%   A: 3%   = 1
+TOTTENHAM vs WATFORD	= H: 90%  D: 0%   A: 10%  = 1
+WOLVES vs SOUTHAMPTON	= H: 97%  D: 0%   A: 3%   = 1
+CPALACE vs MANCITY		= H: 0%   D: 0%   A: 100% = 2
+MANUTD vs LIVERPOOL		= H: 42%  D: 0%   A: 58%  = 12 (Gwala)
+SHEFFIELD vs ARSENAL	= H: 51%  D: 0%   A: 49%  = 1
+
+GRANADA vs OSASUNA		= H: 22%  D: 63%  A: 15%  = X
+EIBAR vs BARCELONA		= H: 52%  D: 48%  A: 0%   = 1X (Haaa)
+AMADRID vs VALENCIA		= H: 59%  D: 16%  A: 25%  = 1
+GETAFE vs LEGANES		= H: 41%  D: 39%  A: 20%  = 1X
+MALLORCA vs RMADRID		= H: 0%   D: 100% A: 0%   = X (The Liver)
+ALAVES vs CELTA			= H: 6%   D: 76%  A: 18%  = X
+RSOCIEDAD vs RBETIS		= H: 72%  D: 20%  A: 8%   = 1
+ESPANYOL vs VILLAREAL	= H: 4%   D: 11%  A: 85%  = 2
+ABILBAO vs RVALLADOLID	= H: 68%  D: 3%   A: 29%  = 1
+SEVILLA vs LEVANTE		= H: 100% D: 0%   A: 0%   = 1
+
+LAZIO vs ATALANTA		= H: 13%  D: 64%  A: 22%  = X
+NAPOLI vs VERONA		= H: 99%  D: 0%   A: 1%   = 1
+JUVENTUS vs BOLOGNA		= H: 59%  D: 0%   A: 41%  = 1
+SASSUOLO vs INTER		= H: 0%   D: 28%  A: 72%  = 2
+CAGLIARI vs SPAL		= H: 25%  D: 74%  A: 2%   = X
+SAMPDORIA vs ROMA		= H: 21%  D: 42%  A: 37%  = X2
+UDINESE vs TORINO		= H: 33%  D: 51%  A: 16%  = X1
+PARMA vs GENOA			= H: 20%  D: 56%  A: 24%  = X
+ACMILAN vs LECCE		= H: 57%  D: 32%  A: 12%  = 1
+BRESCIA vs FIORENTINA	= H: 5%   D: 38%  A: 57%  = X2

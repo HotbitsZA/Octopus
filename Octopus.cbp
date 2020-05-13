@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Octopus" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MLTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../../../iCloudDrive/Projects/Software/ML/sklearn" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MLTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../../../iCloudDrive/Projects/Software/ML/sklearn" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../../iCloudDrive/Projects/Software/ML/sklearn/logistic_regression.cpp" />
+		<Unit filename="../../../iCloudDrive/Projects/Software/ML/sklearn/lsr.cpp" />
+		<Unit filename="../../../iCloudDrive/Projects/Software/ML/sklearn/mlr.cpp" />
+		<Unit filename="../../../iCloudDrive/Projects/Software/ML/sklearn/naive_bayes.cpp" />
+		<Unit filename="../../../iCloudDrive/Projects/Software/ML/sklearn/preprocessing.cpp" />
+		<Unit filename="../../../iCloudDrive/Projects/Software/ML/sklearn/statx.h" />
+		<Unit filename="BundesLigaFix.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="EPLFix.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="LaLigaFix.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Models.cpp" />
+		<Unit filename="Models.h" />
+		<Unit filename="SeriaAFix.h" />
+		<Unit filename="defines.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="version.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<AutoVersioning>
+				<Scheme minor_max="10" build_max="0" rev_max="0" rev_rand_max="10" build_times_to_increment_minor="100" />
+				<Settings autoincrement="1" date_declarations="1" use_define="0" update_manifest="0" do_auto_increment="0" ask_to_increment="0" language="C++" svn="0" svn_directory="" header_path="version.h" />
+				<Changes_Log show_changes_editor="0" app_title="released version %M.%m.%b of %p" changeslog_path="ChangesLog.txt" />
+				<Code header_guard="VERSION_H" namespace="AutoVersion" prefix="" />
+			</AutoVersioning>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
